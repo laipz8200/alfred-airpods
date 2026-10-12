@@ -7,7 +7,7 @@
 	<key>category</key>
 	<string>Tools</string>
 	<key>createdby</key>
-	<string>laipz8200</string>
+	<string>-LAN-</string>
 	<key>description</key>
 	<string>AirPods battery, listening modes, and default sound output.</string>
 	<key>disabled</key>
@@ -15,7 +15,7 @@
 	<key>name</key>
 	<string>AirPods</string>
 	<key>version</key>
-	<string>1.0.0</string>
+	<string>1.0.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/laipz8200/alfred-airpods</string>
 	<key>userconfigurationconfig</key>

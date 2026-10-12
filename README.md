@@ -77,6 +77,6 @@ Intel is compiled but not runtime-tested. macOS 13–26, reconnecting disconnect
 
 MIT. See [LICENSE](LICENSE).
 
-The workflow icon is an original AP monogram; regenerate it with `swift scripts/make_icon.swift workflow/icon.png`.
+The workflow icon is an AI-generated illustration of AirPods Pro.
 
 AirPods is a trademark of Apple Inc. This independent project is not affiliated with Apple or Alfred.
